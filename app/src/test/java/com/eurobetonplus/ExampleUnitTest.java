@@ -1,4 +1,4 @@
-package com.example.saimon.eurobetonplus;
+package com.eurobetonplus;
 
 import org.junit.Test;
 

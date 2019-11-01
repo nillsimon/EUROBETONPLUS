@@ -1,4 +1,4 @@
-package com.example.saimon.eurobetonplus;
+package com.eurobetonplus;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

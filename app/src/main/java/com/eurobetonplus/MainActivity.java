@@ -1,4 +1,4 @@
-package com.example.saimon.eurobetonplus;
+package com.eurobetonplus;
 
 import android.content.SharedPreferences;
 import android.os.Bundle;
@@ -18,6 +18,8 @@ import android.widget.CheckBox;
 import android.widget.RadioButton;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import com.example.saimon.eurobetonplus.R;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener {
