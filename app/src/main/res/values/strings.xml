@@ -21,4 +21,32 @@
     <string name="b_nasos">Бетононасос</string>
     <string name="button_selest_time">Выбрать время доставки</string>
 
+    <string name="m100">M100</string>
+    <string name="m150">M150</string>
+    <string name="m200">M200</string>
+    <string name="m250">M250</string>
+    <string name="m300">M300</string>
+    <string name="m350">M350</string>
+    <string name="m400">M400</string>
+    <string name="m500">M500</string>
+
+
+
+
+    <string name="i_m_a_driver">Для Водтителей</string>
+    <string name="i_m_a_customer">Для Заказчиков</string>
+    <string name="todo">TODO</string>
+    <string name="address">Адрес</string>
+    <string name="name">Имя</string>
+    <string name="password">Пароль</string>
+    <string name="confirm_password">Повтор пароля</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="tap_to_log_in">Tap To Log In</string>
+    <string name="title_activity_driver_maps">Map</string>
+    <string name="sign_out">Выход</string>
+    <string name="settings">Настройки</string>
+    <string name="title_activity_passenger_maps">Map</string>
+    <string name="bookTaxi">Заказать такси</string>
+    <string name="title_activity_customer_maps">Map</string>
+    <string name="anotherAddress">Ввести другой адрес</string>
 </resources>

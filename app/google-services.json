@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "426583691450",
+    "firebase_url": "https://eurobenonplus.firebaseio.com",
+    "project_id": "eurobenonplus",
+    "storage_bucket": "eurobenonplus.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426583691450:android:f8ed6d05b062672cddf283",
+        "android_client_info": {
+          "package_name": "com.eurobetonplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426583691450-2it9s9dc7rl911hlmbm0f0n44j8606ce.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eurobetonplus",
+            "certificate_hash": "cffbb5873faeaa187e28d611bb14268a8a3c1bb6"
+          }
+        },
+        {
+          "client_id": "426583691450-hafcq82rprnkjia9n4su96fu9rv0eolt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPvrDxritXnQC6vOFaSOrnBhJUcT7gUBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426583691450-hafcq82rprnkjia9n4su96fu9rv0eolt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
